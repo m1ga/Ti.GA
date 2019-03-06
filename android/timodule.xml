@@ -11,6 +11,6 @@
 	<mobileweb>
 	</mobileweb>
 	<modules>
-		<module platform="android">ti.playservices</module>
+		<module platform="android" version="11.0.40">ti.playservices</module>
 	</modules>
 </ti:module>
